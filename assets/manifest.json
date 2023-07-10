@@ -1,0 +1,11 @@
+{
+  "name": "WebApp",
+  "short_name": "WebApp",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#1976d2",
+  "background_color": "#fafafa",
+  "scope": "/",
+  "start_url": "/",
+  "icons": []
+}
